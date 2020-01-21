@@ -95,7 +95,7 @@ import About from "./about";
           </div>
 
           <div className="thumbnail1">
-			      <h2>Favourite MakeUp in 2019</h2>
+			      <h2>Product MakeUp in 2020</h2>
           </div>
 
           <div className="thumbnail2">
