@@ -1,0 +1,24 @@
+.header {
+    text-align: center;
+  }
+  
+.h1 {
+    font-family: fantasy;
+}
+  
+.nav {
+    text-align: center;
+}
+
+.content {
+    margin: 20px 350px 0px 350px;
+    padding: 50px 30px;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    background-color: coral;
+}
+
+h5 {
+    text-align: right;
+}
